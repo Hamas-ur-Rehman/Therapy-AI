@@ -1,0 +1,6 @@
+goal1: Learn the basics of flying a plane.
+    goal2: Understand the different controls and instruments used in flying.
+    goal3: Develop the necessary skills to take off, fly and land a plane safely.
+    goal4: Gain knowledge about weather patterns and how they affect flying.
+    goal5: Learn how to navigate using maps and instruments.
+    goal6: Understand the rules and regulations of flying and obtain necessary licenses and certifications.

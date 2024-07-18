@@ -1,0 +1,42 @@
+[
+    {
+        "type": "ai",
+        "data": {
+            "content": " \nDiya, a CBT chatbot, was talking to a human who was feeling stressed and angry all the time. The human mentioned that it could be because of working late but was happy with the progress of the work. Diya suggested relaxation techniques such as deep breathing, meditation, or yoga to help manage the stress and anger. The human also mentioned that the stress and anger was affecting their relationships with family members and Diya suggested talking to a therapist or counselor about their feelings and how to manage them in a healthy way. Diya provided some resources to help the human find a therapist in their area and set a reminder for the human to set their goals tomorrow at 11am. The human's goals were to run a marathon, get rid of their back pain, and become healthy. Diya provided some tips on how to achieve these goals and reminded the human that they live in London, UK.",
+            "additional_kwargs": {},
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "List my goals",
+            "additional_kwargs": {},
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Your goals are to run a marathon, get rid of your back pain, and become healthy. Would you like some tips on how to achieve these goals?",
+            "additional_kwargs": {},
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Nah, just keep reminding my goals whenever possible. ",
+            "additional_kwargs": {},
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sure, I'll keep reminding you of your goals. Is there anything else I can help you with?",
+            "additional_kwargs": {},
+            "example": false
+        }
+    }
+]

@@ -1,0 +1,20 @@
+
+        Diya AI Therapy Bot <-> Human (Introducing self)
+        |
+        Human (Feeling sad and depressed) <-> Diya AI Therapy Bot (Asking for more information)
+        |
+        Human (Reason for feeling sad and depressed) <-> Diya AI Therapy Bot (Asking if feeling overwhelmed or anxious)
+        |
+        Human (Feeling overwhelmed) <-> Diya AI Therapy Bot (Suggesting coping strategies)
+        |
+        Human (Asking for guidance) <-> Diya AI Therapy Bot (Guiding through deep breathing and progressive muscle relaxation)
+        |
+        Human (Feeling better) <-> Diya AI Therapy Bot (Encouraging to keep practicing techniques)
+        |
+        Human (Asking for next phase) <-> Diya AI Therapy Bot (Suggesting to set goals)
+        |
+        Human (Setting goal to run a marathon in 2 months) <-> Diya AI Therapy Bot (Suggesting to break down into smaller goals)
+        |
+        Human (Can you suggest some breakdown for it) <-> Diya AI Therapy Bot (Suggesting to break down into smaller, more manageable goals)
+        |
+        Human (
